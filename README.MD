@@ -27,10 +27,8 @@ The system also supports a mechanism to avoid repeating last year's assignments 
 
 ## Directory Structure
 
-## Directory Structure
-
 ```text
-Secret-santa-acme/
+Secret-Santa-Acme/
 ├── data/
 │   ├── employees.csv
 │   └── previous_assignments.csv
