@@ -70,9 +70,9 @@ The project uses pytest for testing. Tests cover CSV file handling, validation, 
    pip install pytest
    ```
 2. Run Tests from the Project Root:
-   `bash
+   ```bash
     pytest
-    `
+   ```
    Ensure you run the command from the root directory so that the src package is discoverable.
    If you encounter import errors, verify that your directory structure is correct and consider adding the project root to sys.path in your test files.
 
