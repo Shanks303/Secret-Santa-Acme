@@ -27,7 +27,7 @@ The system also supports a mechanism to avoid repeating last year's assignments 
 
 ## Directory Structure
 
-```
+```bash
 Secret-santa-acme/ ├── data/ │ ├── employees.csv │ └── previous_assignments.csv ├── output/ │ └── .gitkeep ├── src/ │ ├── init.py │ ├── file_handler.py │ ├── secret_santa_assigner.py │ └── validator.py ├── tests/ │ └── test_santa_assigner.py ├── .gitignore ├── README.md ├── requirements.txt └── main.py
 ```
 
